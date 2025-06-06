@@ -9,7 +9,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/about-this-book">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/about-this-book"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>About This Book</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -28,7 +28,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/armenians">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/armenians"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Armenians</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -47,7 +47,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/bartonbio">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/bartonbio"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Biography of Ralph Barton (1891-1931)</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -66,7 +66,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/battle-of-verdun">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/battle-of-verdun"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Battle of Verdun</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -85,7 +85,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/bazar">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/bazar"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Blondes in Harper’s Bazar</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -104,7 +104,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/bibliography">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/bibliography"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Selected Bibliography</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -123,7 +123,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/bill-hart">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/bill-hart"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Bill Hart</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -142,7 +142,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/boniliveright">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/boniliveright"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Blondes at Boni &amp; Liveright</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -161,7 +161,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/cellinicup">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/cellinicup"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Cellini Cup/The Rospigliosi Cup</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -180,7 +180,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/chapeau-rouge">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/chapeau-rouge"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Chapeau Rouge</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -199,7 +199,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/club-trocadero">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/club-trocadero"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Club Trocadero</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -218,7 +218,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/contributors">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/contributors"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Contributors and Acknowledgements</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -237,7 +237,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/count-salm">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/count-salm"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Count Salm</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -256,7 +256,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/critical-and-biographical-context">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/critical-and-biographical-context"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Critical and Biographical Context</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -275,7 +275,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/daily-news-and-zits-theatrical-weekly">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/daily-news-and-zits-theatrical-weekly"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Daily News and Zit's Theatrical Weekly</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -294,7 +294,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/david-wark-dw-griffith">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/david-wark-dw-griffith"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>David Wark (D.W.) Griffith</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -313,7 +313,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/dempsey-firpo">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/dempsey-firpo"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Dempsey-Firpo</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -332,7 +332,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/dolley-madison">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/dolley-madison"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Dolley Madison</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -351,7 +351,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/dolly-sisters">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/dolly-sisters"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Dolly Sisters</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -370,7 +370,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/eddie-cantor">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/eddie-cantor"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Eddie Cantor</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -389,7 +389,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/editions">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/editions"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Editions, Sequels, and Adaptations</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -408,7 +408,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/editors-introduction">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/editors-introduction"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Editor's Introduction</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -427,7 +427,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/florence-mills">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/florence-mills"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Florence Mills</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -446,7 +446,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/folies-bergre">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/folies-bergre"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Folies-Bergère</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -465,7 +465,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/fontainebleau">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/fontainebleau"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Fontainebleau</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -484,7 +484,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251114_stlouisdispatchtranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251114_stlouisdispatchtranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Saint Louis Post-Dispatch Review, November 14, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -503,7 +503,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251121_literaryreviewtranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251121_literaryreviewtranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of The Literary Review of the Saturday Evening Post Review, November 21, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -522,7 +522,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251210_lifetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251210_lifetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Life Review, December 10, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -541,7 +541,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251220_chicagodailytribunetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251220_chicagodailytribunetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Chicago Daily Tribune Review, December 20, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -560,7 +560,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_newyorktimestranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_newyorktimestranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of New York Times Review, December 27, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -579,7 +579,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_newyorktribunetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_newyorktribunetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of New York Herald, New York Tribune Review, December 27, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -598,7 +598,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_springfieldrepublicantranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19251227_springfieldrepublicantranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Springfield Daily Republican Review, December 27, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -617,7 +617,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260200_literarydigesttranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260200_literarydigesttranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of The Literary Digest Review, February, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -636,7 +636,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260222_timetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260222_timetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Time Review, February 22, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -655,7 +655,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260408_lifetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260408_lifetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Life Review, April 8, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -674,7 +674,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260502a_observertranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260502a_observertranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of The Observer Review, May 2, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -693,7 +693,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260507_chicagodailytribunetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260507_chicagodailytribunetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Chicago Daily Tribune Review, May 7, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -712,7 +712,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260516_chicagodailytribunetranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260516_chicagodailytribunetranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of Chicago Daily Tribune Review, May 16, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -731,7 +731,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260900_americanmercurytranscription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbreview_19260900_americanmercurytranscription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of The American Mercury Review, September 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -750,7 +750,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/gpbtext">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/gpbtext"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: The Illuminating Diary of a Professional Lady: A Note on the Reading Copy of the Text</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -769,7 +769,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/harold-macgrath">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/harold-macgrath"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Harold MacGrath</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -788,7 +788,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/historical-references">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/historical-references"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Historical References</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -807,7 +807,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/hofbruhaus">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/hofbruhaus"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Hofbräuhaus</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -826,7 +826,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/illustrationvariants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/illustrationvariants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Changes to Illustrations in Gentlemen Prefer Blondes</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -845,7 +845,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/index">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/index"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: A Critical Edition</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -865,7 +865,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/intolerance">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/intolerance"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Intolerance</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -884,7 +884,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/kiki">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/kiki"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Kiki</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -903,7 +903,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/king-edward-vii">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/king-edward-vii"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>King Edward VII</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -922,7 +922,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/knights-of-pythias">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/knights-of-pythias"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Knights of Pythias</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -941,7 +941,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/lauder">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/lauder"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Harry Lauder</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -960,7 +960,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/layoutvariants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/layoutvariants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Layout Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -979,7 +979,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/lenore-ulric">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/lenore-ulric"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lenore Ulric</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -998,7 +998,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/little-rock-arkansas">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/little-rock-arkansas"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Little Rock, Arkansas</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1017,7 +1017,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/locations">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/locations"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Geography of Gentlemen Prefer Blondes</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1037,7 +1037,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loosbio">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loosbio"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Biography of Anita Loos (1888-1981)</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1056,7 +1056,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-central-europe">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-central-europe"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lorelei's Central Europe</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1075,7 +1075,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-globe">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-globe"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lorelei's Globe</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1094,7 +1094,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-london">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-london"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lorelei's London</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1113,7 +1113,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-new-york-city">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-new-york-city"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lorelei's New York City</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1132,7 +1132,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-paris">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/loreleis-paris"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Lorelei's Paris</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1151,7 +1151,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/madame-calv">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/madame-calv"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Madame Calvé</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1170,7 +1170,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/madame-calv">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/madame-calv"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Madame Calvé</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1189,7 +1189,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/madame-frances">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/madame-frances"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Madame Frances</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1208,7 +1208,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/madame-schumann-heink">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/madame-schumann-heink"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Madame Schumann-Heink</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1227,7 +1227,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/mamma-loves-papa">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/mamma-loves-papa"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Mamma Loves Papa</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1246,7 +1246,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/maybelle-gilman-corey">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/maybelle-gilman-corey"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Maybelle Gilman Corey</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1265,7 +1265,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/mencken">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/mencken"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>H.L. Mencken</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1284,7 +1284,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/moulin-rouge">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/moulin-rouge"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Moulin Rouge</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1303,7 +1303,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/nash">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/nash"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Mrs. Nash</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1322,7 +1322,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/palm-beach">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/palm-beach"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Palm Beach</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1341,7 +1341,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/pearl-white">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/pearl-white"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Pearl White</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1360,7 +1360,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/peggy-hopkins-joyce">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/peggy-hopkins-joyce"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Peggy Hopkins Joyce</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1379,7 +1379,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/place-vendme">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/place-vendme"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Place Vendôme</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1398,7 +1398,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/preface">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/preface"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Preface to the Edition</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1418,7 +1418,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/prince-of-wales">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/prince-of-wales"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Prince of Wales</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1437,7 +1437,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/rudolph-valentino">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/rudolph-valentino"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Rudolph Valentino</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1456,7 +1456,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/russian-crown-jewels">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/russian-crown-jewels"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Russian Crown Jewels</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1475,7 +1475,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/smile">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/smile"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Smile, Smile, Smile</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1494,7 +1494,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/textualvariants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/textualvariants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Textual Variants in Gentlemen Prefer Blondes</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1513,7 +1513,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-aquitania">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-aquitania"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Aquitania</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1532,7 +1532,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-autobiography-of-benvenuto-cellini">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-autobiography-of-benvenuto-cellini"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Autobiography of Benvenuto Cellini</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1551,7 +1551,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-boston-transcript-november-25-1925transcription">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-boston-transcript-november-25-1925transcription"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of The Boston Transcript Review, November 25, 1925</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1570,7 +1570,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-colony">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-colony"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Colony</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1589,7 +1589,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-majestic">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-majestic"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Majestic</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1608,7 +1608,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/the-ziegfeld-follies">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/the-ziegfeld-follies"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>The Ziegfeld Follies</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1627,7 +1627,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/transcription-of-gks-weekly-review-july-10-1926">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/transcription-of-gks-weekly-review-july-10-1926"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Transcription of G.K.'s Weekly Review, July 10, 1926</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1646,7 +1646,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/zoolack">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/zoolack"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Zoolack</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1665,7 +1665,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch1">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch1"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 1</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1685,7 +1685,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch2">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch2"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 2</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1705,7 +1705,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch3">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch3"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 3</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1725,7 +1725,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch4">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch4"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 4</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1745,7 +1745,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch5">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch5"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 5</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1765,7 +1765,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch6">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch6"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter 6</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1785,7 +1785,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch1variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch1variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter One Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1805,7 +1805,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch2variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch2variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter Two Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1825,7 +1825,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch3variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch3variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter Three Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1845,7 +1845,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch4variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch4variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter Four Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1865,7 +1865,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch5variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch5variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter Five Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
@@ -1885,7 +1885,7 @@
     <gpb:artifact rdf:about="https://iopn.library.illinois.edu/scalar/gpbedition/ch6variants">
         <rdfs:seeAlso rdf:resource="https://iopn.library.illinois.edu/scalar/gpbedition/ch6variants"/>
         <collex:federation>ModNets</collex:federation>
-        <collex:archive>GPB</collex:archive>
+        <collex:archive>ModNets</collex:archive>
         <dc:title>Gentlemen Prefer Blondes: Chapter Six Textual Variants</dc:title>
         <dc:type>Codex</dc:type>
         <dc:date>
